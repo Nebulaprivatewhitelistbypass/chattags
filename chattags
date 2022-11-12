@@ -1,0 +1,22 @@
+return {
+  ["rgfrhfghfgjfgh"] = {
+    TagText = "random guy",
+    TagColor = Color3.fromRGB(255,65,65)
+  },
+  ["imnoob12_o2"] = {
+    TagText = "Owner Alt",
+    TagColor = Color3.fromRGB(0,255,200)
+  },
+  ["imrunningrun"] = {
+    TagText = "Phoumishot",
+    TagColor = Color3.fromRGB(255,255,0)
+  },
+  ["imnoob12_o"] = {
+    TagText = "Script Owner",
+    TagColor = Color3.fromRGB(0,115,255)
+  },
+  ["xylexiscandianic"] = {
+    TagText = "omg retard",
+    TagColor = Color3.fromRGB(255,0,255)
+  }
+}

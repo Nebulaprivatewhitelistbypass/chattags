@@ -17,7 +17,7 @@ return {
   },
   ["ejh978te7hy"] = {
     TagText = "Cola-DEV",
-    TagColor = Color3.fromRGB(133, 65, 255)
+    TagColor = Color3.fromRGB(133,65,255)
   },
   ["xylexiscandianic"] = {
     TagText = "omg retard",
